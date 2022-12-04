@@ -1,4 +1,4 @@
-# ZBase-CSGO
+# Geezy
 A C# CS:GO Cheat base, with sample bunnyhop & overlay esp.
 
 ![yes](https://i.imgur.com/HGvmcWP.png)
